@@ -6,7 +6,7 @@ product
 
 ## Users
 
-Students and casual Pokemon fans using a mobile reference tool to browse real Pokemon, save favorites, and inspect useful details.
+Casual Pokemon fans using a mobile reference tool to browse real Pokemon, save favorites, and inspect useful details.
 
 ## Product Purpose
 
